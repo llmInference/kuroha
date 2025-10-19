@@ -1,3 +1,5 @@
+复现了OSD论文中的在线蒸馏实验，并尝试在在线实验中应用Sparse Logits Sampling  
+
 代码是拷打AI给的，能跑通  
 
 草稿模型预测的token的接受率（alpha）和原来差不多  
